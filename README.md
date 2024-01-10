@@ -1,2 +1,2 @@
-# AntiAnimal
+# Ayo Catch 'em
  Shooting animals with food!!!!
