@@ -6,11 +6,6 @@ using UnityEngine;
 public class Collision : MonoBehaviour
 {
 
-
-    void Start()
-    {
-
-    }
     void OnTriggerEnter(Collider other)
     {
 

@@ -356,6 +356,8 @@
 "Assets/Scirpts/Collision.cs"
 "Assets/Scirpts/Destroy.cs"
 "Assets/Scirpts/GameManager.cs"
+"Assets/Scirpts/Life.cs"
+"Assets/Scirpts/MainMenu.cs"
 "Assets/Scirpts/Move.cs"
 "Assets/Scirpts/PlayerController.cs"
 "Assets/Scirpts/score.cs"

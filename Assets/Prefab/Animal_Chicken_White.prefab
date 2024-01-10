@@ -1111,7 +1111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5829e1cfea384d94aa12a6dac7a2bfd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 20
+  speed: 18
 --- !u!65 &641701066499626023
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1157,7 +1157,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00e620b89c8206e48bb0bb2fc065315d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
 --- !u!1 &5975025511857148587
 GameObject:
   m_ObjectHideFlags: 0
